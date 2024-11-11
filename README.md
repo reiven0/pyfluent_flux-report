@@ -24,5 +24,6 @@ The `flux-report.py` script provides the following functionality:
 - The intermediate analysis files are saved to a path like 'A:\Temp\multi_surface_test@Fluent\cylinder01_files\dp0\FLU\Fluent'.
   The result_folder is created in the parent directory three levels up from the above path (cylinder01_files), and the CSV file is saved there.
 - The DP (Design Point) number is extracted from the above path and added to the beginning of the file name.
+　(For example, dp0_output.csv)
 
   ![result_csv](https://github.com/user-attachments/assets/431ce53f-3b9e-47a2-bd1c-c351a09bd956)
