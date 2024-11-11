@@ -16,6 +16,7 @@ The `flux-report.py` script provides the following functionality:
    
    ![readme_en-excute](https://github.com/user-attachments/assets/a14f4161-1c54-42a1-944d-dec567d9f770)
 
+3. :white_check_mark:Please change the contents of 'boundaries=["cha", "chb", "chc", "chd"]' to suit your environment.
 
 ## Prerequisites
 
